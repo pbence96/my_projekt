@@ -3,7 +3,10 @@ void main (void){
 	
 	printf("VALTOZTATAS_1");
 	printf("meg valmai modositas");
+
 	printf("plusz kiiras 6-os");
+
+
 	
 	
 	
